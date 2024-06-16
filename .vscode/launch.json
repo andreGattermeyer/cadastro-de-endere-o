@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ApiCadastroEnderecoApplication<api_cadastro_endereco>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "br.com.andregattermeyer.api_cadastro_endereco.ApiCadastroEnderecoApplication",
+            "projectName": "api_cadastro_endereco",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
